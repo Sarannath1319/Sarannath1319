@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Sarannath Rengasamy 👋
 
-<!--
-**Sarannath1319/Sarannath1319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
+☁️ Aspiring Cloud Engineer
+💻 Web Development Enthusiast
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an MCA student interested in Cloud Computing and AWS.
+Currently, I'm building my skills in AWS, Linux, Python,
+Git/GitHub and modern web development.
+
+## Currently Learning
+
+- AWS & Cloud Computing
+- Linux
+- Python
+- Networking Fundamentals
+- Git & GitHub
+- DevOps Fundamentals
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Python
+- MongoDB
+- Git
+- GitHub
+
+## Projects
+
+- To-Do List Manager
+- Smart Expenses – Expense Management System
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/
+sarannath-rengasamy-09536733b
